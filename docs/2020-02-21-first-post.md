@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: default
 title:  "First Post"
 date:   2020-02-21
+nav_order: 99
 #permalink: /firstpost/
 categories: post
+nav_exclude: true
 ---
 # First Post
 

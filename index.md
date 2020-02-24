@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Home
 nav_order: 1
 permalink: /
