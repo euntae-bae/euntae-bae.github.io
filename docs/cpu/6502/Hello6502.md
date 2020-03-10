@@ -3,7 +3,8 @@ layout: post
 title: Hello 6502!
 parent: 6502
 grand_parent: CPU
-nav_order: 1
+nav_order: 99
+nav_exclude: true
 ---
 
 # Hello 6502!
