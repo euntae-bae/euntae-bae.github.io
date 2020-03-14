@@ -20,6 +20,8 @@ title: Proletariat's
 description: Computer Science and Socialism
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://euntae-bae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "@catnip1917"
+github_username: "euntae-bae"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
