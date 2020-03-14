@@ -9,6 +9,7 @@ nav_exclude: true
 
 # Hello 6502!
 ## HI MOS 6502!
+## dummy document for template
 ```
 start:
     LDA #0
