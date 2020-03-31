@@ -3,7 +3,7 @@ layout: post
 title: "블록 전송 명령어"
 parent: Z80
 grand_parent: CPU
-nav_order: 5
+nav_order: 6
 ---
 
 # 블록 전송 명령어
@@ -11,11 +11,11 @@ nav_order: 5
 블록 전송 명령어들은 다음 세 가지 레지스터쌍을 특수한 용도로 사용한다.  
   
 
-|레지스터|용도                           |
-|:----:|:----------------------------:|
-|HL    |근원지 주소(Source Address)     |
-|DE    |목적지 주소(Destination Address)|
-|BC    |전송 바이트 개수                 |
+|레지스터|용도                             |
+|:------:|:-------------------------------:|
+|HL      |근원지 주소(Source Address)      |
+|DE      |목적지 주소(Destination Address) |
+|BC      |전송 바이트 개수                 |
 
   
 

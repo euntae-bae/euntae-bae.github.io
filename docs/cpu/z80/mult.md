@@ -3,7 +3,7 @@ layout: post
 title: "8비트 곱셈 프로그램"
 parent: Z80
 grand_parent: CPU
-nav_order: 9
+nav_order: 10
 ---
 
 # 8비트 곱셈 프로그램 (for Z80)

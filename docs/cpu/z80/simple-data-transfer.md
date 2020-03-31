@@ -3,7 +3,7 @@ layout: post
 title: "데이터 전송 간단 정리"
 parent: Z80
 grand_parent: CPU
-nav_order: 3
+nav_order: 4
 ---
 
 # 데이터 전송 간단 정리

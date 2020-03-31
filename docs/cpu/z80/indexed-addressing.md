@@ -3,7 +3,7 @@ layout: post
 title: "인덱스 주소지정 방식 명령어를 사용할 때 주의할 점"
 parent: Z80
 grand_parent: CPU
-nav_order: 8
+nav_order: 9
 ---
 
 # 인덱스 주소지정 방식 명령어를 사용할 때 주의할 점

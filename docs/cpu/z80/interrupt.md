@@ -3,7 +3,7 @@ layout: post
 title: "Z80의 인터럽트"
 parent: Z80
 grand_parent: CPU
-nav_order: 7
+nav_order: 8
 ---
 
 # Z80의 인터럽트

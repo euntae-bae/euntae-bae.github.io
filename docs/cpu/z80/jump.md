@@ -3,7 +3,7 @@ layout: post
 title: "점프 명령어"
 parent: Z80
 grand_parent: CPU
-nav_order: 6
+nav_order: 7
 ---
 
 # 점프 명령어

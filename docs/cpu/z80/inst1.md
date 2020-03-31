@@ -3,7 +3,7 @@ layout: post
 title: "명령어의 분류1 - 주소지정 방식"
 parent: Z80
 grand_parent: CPU
-nav_order: 1
+nav_order: 2
 ---
 
 # 명령어의 분류1 - 주소지정 방식

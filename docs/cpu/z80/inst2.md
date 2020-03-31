@@ -3,7 +3,7 @@ layout: post
 title: "명령어의 분류2 - 명령어 길이"
 parent: Z80
 grand_parent: CPU
-nav_order: 2
+nav_order: 3
 ---
 
 # 명령어의 분류2 - 명령어 길이

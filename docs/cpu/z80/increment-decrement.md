@@ -3,7 +3,7 @@ layout: post
 title: "산술 연산: 증가 및 감소 연산 간단 정리"
 parent: Z80
 grand_parent: CPU
-nav_order: 4
+nav_order: 5
 ---
 
 # 산술 연산: 증가 및 감소 연산 간단 정리
