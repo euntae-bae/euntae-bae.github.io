@@ -226,11 +226,7 @@ Push; 16비트 레지스터 값을 스택에 푸시
   
 ```
 PUSH AF
-PUSH BC
-PUSH DE
-PUSH HL
-PUSH IX
-PUSH IY
+PUSH reg16
 ```
 
 <br>
@@ -241,11 +237,7 @@ AF를 팝 하는 경우를 제외하면 플래그에는 아무 영향을 미치�
   
 ```
 POP AF
-POP BC
-POP DE
-POP HL
-POP IX
-POP IY
+POP reg16
 ```
 
 <br>
